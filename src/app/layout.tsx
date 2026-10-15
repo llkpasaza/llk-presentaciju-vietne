@@ -5,6 +5,11 @@ export const metadata: Metadata = {
 title: "LL & K | Ēku pārvaldīšana",
 description:
 "Profesionāla ēku apsaimniekošana, tehniskā uzturēšana un pārskatāma finanšu pārvaldība Rīgā.",
+
+icons: {
+  icon: "/LLK-logo.png",
+},
+
 };
 
 export default function RootLayout({
